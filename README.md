@@ -76,6 +76,7 @@ I'm an Information Technology undergraduate passionate about Cloud Computing, AW
 
 ## ☁️ Featured Cloud Project
 
+
 ### 01. Serverless Real-Time Chat Application
 
 <p>
@@ -86,22 +87,47 @@ I'm an Information Technology undergraduate passionate about Cloud Computing, AW
 A cloud-based chat application designed to support real-time communication using AWS serverless technologies.
 
 <details>
-<summary><b>🔍 Explore Project Details</b></summary>
+<summary><b>🚀 Explore Project & Implementation</b></summary>
 
-**Technologies Used:**
+<br/>
+
+### 📂 Project Repository
+
+<a href="https://github.com/RenukaSanthakumar/YOUR_REPOSITORY_NAME">
+  <img src="https://img.shields.io/badge/View_Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+### 🛠️ Technologies Used
+
 - AWS Lambda
 - Amazon API Gateway (WebSocket API)
 - Amazon DynamoDB
 - AWS IAM
 - HTML, CSS, JavaScript
 
-**Key Implementation Areas:**
+### 📸 Application Screenshots
+
+**Chat Application Interface**
+
+![Chat Application Interface](https://raw.githubusercontent.com/RenukaSanthakumar/YOUR_REPOSITORY_NAME/main/screenshots/chat-interface.png)
+
+**Real-Time Message Exchange**
+
+![Message Exchange](https://raw.githubusercontent.com/RenukaSanthakumar/YOUR_REPOSITORY_NAME/main/screenshots/message-exchange.png)
+
+### ☁️ AWS Architecture
+
+![AWS Architecture Diagram](https://raw.githubusercontent.com/RenukaSanthakumar/YOUR_REPOSITORY_NAME/main/screenshots/aws-architecture.png)
+
+### ⚙️ Key Implementation Areas
+
 - Explored WebSocket routes such as `$connect`, `$disconnect`, and `sendMessage`.
 - Used AWS Lambda for backend message-handling operations.
 - Used DynamoDB for storing connection and message-related data.
 - Worked on frontend integration with the WebSocket API.
 
-**What I Learned:**
+### 📚 What I Learned
+
 - Serverless application architecture.
 - AWS service integration.
 - Real-time communication concepts.
